@@ -52,3 +52,14 @@ This analysis simulates how education data can be used to address these challeng
 ---
 
 ## Project Structure  
+
+---
+
+## Ethical Considerations  
+All data used in this project is publicly available and anonymized.
+
+---
+
+## Author  
+**Frank Amponsah**  
+Data Administrator | Aspiring Data Scientist  
